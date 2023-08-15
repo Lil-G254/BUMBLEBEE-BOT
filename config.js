@@ -14,8 +14,8 @@ global.owner = [
   ['923470027813', '💫 𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓 Collaborator 3 💫', true],
 ];
 
-global.suittag = ['254736958034'];
-global.prems = ['254736958034', '923470027813'];
+global.suittag = ['254734847282'];
+global.prems = ['254734847282', '923470027813'];
 
 global.packname = '(☞ﾟ∀ﾟ)☞';
 global.author = '★𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓★';
